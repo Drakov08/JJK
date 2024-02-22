@@ -1,6 +1,6 @@
 local KeySystemUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/MaGiXxScripter0/keysystemv2api/master/ui/xrer_mstudio45.lua"))()
 KeySystemUI.New({
-    ApplicationName = "TSH", -- Your Key System Application Name
+    ApplicationName = "TSHXL", -- Your Key System Application Name
     Name = "TSHXL", -- Your Script name
     Info = "Get Key For TSHXL", -- Info text in the GUI, keep empty for default text.
     DiscordInvite = "https://discord.gg/nvkPCuen4G", -- Optional.
